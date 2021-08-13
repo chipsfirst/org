@@ -4,7 +4,7 @@
 
 * TODO Задачи[0/2]:                                                  :СРОЧНО:
 ** TODO [ ] - hide stars
-   DEADLINE: <2021-08-12 Чт 16:00>
+   DEADLINE: <2021-08-16 Чт 16:00>
 ** TODO [ ] - new function
 * TODO Новые задачи [ %]:                                          :СИТУАЦИЯ:
 ** TODO [ ] - task 1
