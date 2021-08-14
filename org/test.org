@@ -3,12 +3,14 @@
 #+Author: Kartashov_VA
 
 * TODO Задачи[0/2]:                                                  :СРОЧНО:
-** TODO [ ] - hide stars
+- [ ] - hide stars
    DEADLINE: <2021-08-16 Чт 16:00>
-** TODO [ ] - new function
-* TODO Новые задачи [ %]:                                          :СИТУАЦИЯ:
-** TODO [ ] - task 1
-** TODO [ ] - task 2
-** TODO [ ] - task 3
+- [ ] - new function
+* TODO Новые задачи [0%]:                                          :СИТУАЦИЯ:
+- [ ] - task 1, new interaction
+- [ ] - task 2
+- [ ] - task 3
+ 
+
 
 
