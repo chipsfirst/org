@@ -1,4 +1,4 @@
-#+HEADER: hidestars
+#+HEAD: hidestars
 #+AUTHOR: Kartashov_Home
 #+TITLE: RULES and BASIC
 * Краткие базовые механики: 
