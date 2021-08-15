@@ -2,15 +2,14 @@
 #+TAGS:ВАЖНО(в), СРОЧНО (с), СИТУАЦИЯ(п)
 #+Author: Kartashov_VA
 
-* TODO Задачи[0/2]:                                                  :СРОЧНО:
-- [ ] - hide stars
+* TODO Задачи[1/2]:                                                  :СРОЧНО:
+- [X] - hide stars
    DEADLINE: <2021-08-16 Чт 16:00>
 - [ ] - new function
-* TODO Новые задачи [0%]:                                          :СИТУАЦИЯ:
-- [ ] - task 1, new interaction
+* TODO Новые задачи [33%]:                                           :СРОЧНО:
+- [X] - task 1, new interaction
 - [ ] - task 2
 - [ ] - task 3
- 
-
-
-
+*  Links
+** [[chipsfirst.herokuapp.com][My blog]]
+** 

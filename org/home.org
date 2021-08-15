@@ -1,7 +1,13 @@
 #+TITLE: Домашние дела
 #+AUTHOR: Kartashov_VA
-#+TAGS: Alert(a), Family(f), My(m)
+#+TAGS: ALERT(a) FAMILY(f) MY(m)
 * TODO Счетчики [1/2]:                                                   :My:
   SCHEDULED: <2021-08-14 Sat 13:00>
 - [X] Поверить счетчики
 - [ ] Документы отнести в управляющую компанию
+* TODO [#A] Развод:                                  :ALERT:
+  DEADLINE: <2021-08-16 Mon 11:00>
+** TODO Разобраться с документами
+** TODO Поговорить с Таней
+** TODO Обговорить детали
+** TODO Выяснить что делать дальше
