@@ -50,3 +50,5 @@
 * Помощь по командам:
 ***  C-h a
 ***  C-h i
+* Projectile:
+-Добавляем директорию проекта как новый проект командой m-x 'projectile-add-known-project'
