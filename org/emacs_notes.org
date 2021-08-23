@@ -1,0 +1,63 @@
+#+AUTHOR: Kartashov_VA
+#+TITLE: Заметки о EMACS.
+* Краткие заметки
+**  1. Чтобы заработал doom-modeline, необходимо скачать из репозитория  _all-the-icon_ шрифты и все установить. Только после этого все заработает.
+**  2. Добавляем лого к Дашбоарду: делаем лого в пнг размером не более _200х200_. Кладем в папку с максом и указываем в _init.el_ команду *(setq dashboard-startup-banner "~/.emacs.d/logo.png")*. И вуаля!
+**  3. Работает с Projectile. Для начала нужно инициализировать новый проект. Для этого используем <C-C P-f>.
+* Работа с emacs
+*** Навигация по тексту
+**** Перемещение по тексту:
+***** 	C-f	Move forward a character
+***** 	C-b	Move backward a character
+***** 	M-f	Move forward a word
+***** 	M-b	Move backward a word
+***** 	C-n	Move to next line
+***** 	C-p	Move to previous line
+***** 	C-a	Move to beginning of line
+***** 	C-e	Move to end of line
+***** 	M-a	Move back to beginning of sentence
+***** 	M-e	Move forward to end of sentence
+**** В конец и в начало документа: 
+***** Two other important cursor motion commands are M-< (META Less-than),
+      which moves to the beginning of the whole text, and M-> (META
+      Greater-than), which moves to the end of the whole text.
+      (M-Shift + < или M-Shift + >)
+*** Справка
+****  C-h [VALUE]  C-f
+*** Вставка нескольких одинаковых символов:
+**** type C-u 8 * to insert ********
+*** Удаление:
+**** 	<DEL>        Delete the character just before the cursor
+	C-d   	     Delete the next character after the cursor
+
+	M-<DEL>      Kill the word immediately before the cursor
+	M-d	     Kill the next word after the cursor
+
+	C-k	     Kill from the cursor position to end of line
+	M-k	     Kill to the end of the current sentence
+** Marks and delete it:
+*** C-<SPC>.  Finally, type C-w.  This kills all the text between the two positions.
+** Восстановление удаленного текста:
+***  C-/
+*** Команды C-x:
+**** 	C-x C-f		Find file
+	C-x C-s		Save file
+	C-x s		Save some buffers
+	C-x C-b		List buffers
+	C-x b		Switch buffer
+	C-x C-c		Quit Emacs
+	C-x 1		Delete all but one window
+	C-x u		Undo
+*** Помощь по командам:
+****  C-h a
+***  C-h i
+*** Projectile:
+-Добавляем директорию проекта как новый проект командой m-x 'projectile-add-known-project'
+*** Закладка:
+**** Поставить закладку: C-X  r  m
+* Полезные ссылки:
+** AWESOME:[[https://github.com/chipsfirst/awesome][awesome for all]]
+** [[https://github.com/emacs-tw/awesome-emacs][emacs awesome]]
+** 
+* 
+

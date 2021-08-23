@@ -1,0 +1,2 @@
+((nil
+   (eval . (setq a-variable-you-need-to-merge (add-to-list whatever-you-need)))))
