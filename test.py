@@ -1,5 +1,8 @@
-import random
+MAX_PRIME = 100
 
-print(random.randint(1,25))
-print("It's Work")
-print("fffgfg")
+sieve = [True]* MAX_PRIME
+for i in range(2, MAX_PRIME):
+    if sieve[i]:
+        print(i)
+        for j in range(i * i, MAX_PRIME, i):
+            sieve[j] = Falsevv
