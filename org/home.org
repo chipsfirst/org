@@ -1,6 +1,7 @@
 #+TITLE: Домашние дела
 #+AUTHOR: Kartashov_VA
 #+TAGS: ALERT(a) FAMILY(f) MY(m)
+#+STARTUP: hideblocks
 * [#A] Счетчики :                                                     :ALERT:
 ** DONE Поверить счетчики
 ** DONE Документы отнести в управляющую компанию :
@@ -56,4 +57,18 @@
 | Овощи        |       400 |
 | Фрукты       |       400 |
 | Прочее       |       500 |
-** TODO Позвонить родителям                                          :FAMILY:
+** DONE Позвонить родителям                                          :FAMILY:
+* test drawing
+:jkfgjf:
+
+:END:
+:DRAWERMAME:
+cccsskgkggfhgkfgkfhgfkghfgfkg
+:END:
+#+BEGIN_COMMENT 1222
+this is block
+#+END_COMMENT
+#+BEGIN_COMMENT
+this is commment
+#+END_COMMENT
+ 
