@@ -1,4 +1,3 @@
-import random
-print(random.randint(1,25))
-print("It's Work")
-print("fffgfg")
+print("Who you are?: ")
+name1 = input()
+print("Hello, " + name1)
