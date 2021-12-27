@@ -22,3 +22,73 @@ Archived entries from file c:/Users/kartashov/AppData/Roaming/.emacs.d/dev/work.
   :ARCHIVE_TODO: DONE
   :END:
   - State "DONE"       from "NEXT"       [2021-09-10 Fri 17:02]
+
+* DONE ACTIVE [#A] Заказать канцтовары и узнать про заказ ssd
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:35
+  :ARCHIVE_FILE: ~/.emacs.d/dev/work.org
+  :ARCHIVE_OLPATH: Глобальные задачи:
+  :ARCHIVE_CATEGORY: work
+  :ARCHIVE_TODO: DONE
+  :END:
+  - State "REVIEW"     from "WAIT"       [2021-09-09 Thu 11:03]
+  - State "HOLD"       from "WAIT"       [2021-09-09 Thu 11:03]
+  - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:46]
+
+* DONE ACTIVE [#B] Переделать инвентаризацию
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:35
+  :ARCHIVE_FILE: ~/.emacs.d/dev/work.org
+  :ARCHIVE_OLPATH: Глобальные задачи:
+  :ARCHIVE_CATEGORY: work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE ACTIVE [#A] Подготовить ноутбуки к соцпед тестированию
+  DEADLINE: <2021-09-20 Mon 09:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:35
+  :ARCHIVE_FILE: ~/.emacs.d/dev/work.org
+  :ARCHIVE_OLPATH: Глобальные задачи:
+  :ARCHIVE_CATEGORY: work
+  :ARCHIVE_TODO: DONE
+  :END:
+  - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:46]
+  - State "DONE"       from "BACKLOG"    [2021-09-09 Thu 10:45]
+  - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:45]
+
+* DONE Date:<2021-09-15 Wed>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:35
+  :ARCHIVE_FILE: ~/.emacs.d/dev/work.org
+  :ARCHIVE_CATEGORY: work
+  :ARCHIVE_TODO: DONE
+  :END:
+** DONE Начать инвентаризацию
+
+
+  
+   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:48]
+   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:47]
+   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:47]
+** DONE Кабинет 2-2 посмотреть компьютер
+** DONE Посмотреть переходники hdmi
+
+* Date:<2021-09-27 Mon>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:35
+  :ARCHIVE_FILE: ~/.emacs.d/dev/work.org
+  :ARCHIVE_CATEGORY: work
+  :END:
+** DONE [#B] Планерка зум
+** DONE Почта пиздюлина
+   - State "DONE"       from "NEXT"       [2021-09-27 Mon 11:51]
+** DONE Проектор в 2-16
+** DONE Компьютер в 2-17
+** DONE Компьютер 1-7 обновить, проверить
+   Ни в коем случае не сносить систему, там установлен тир.
+** DONE Проверить бухгалтерию на наличие интернета
+   Выключить шлюз
+** TODO Повесить проектор в 3-21
+** DONE 8а второй аккаунт в зум
+   

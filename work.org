@@ -1,45 +1,20 @@
 #+TITLE: WORK NOTE
-#+TAGS: ALERT(a), IMPORTANT(i), MAYBE(m)
+#+TAGS: ALERT(a) IMPORTANT(i)  MAYBE(m)
 #+DATE: <2021-08-26 Thu>
-* Глобальные задачи:
-** ACTIVE [#A] Подготовить ноутбуки к соцпед тестированию
-   DEADLINE: <2021-09-20 Mon 09:00>
-   - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:46]
-   - State "DONE"       from "BACKLOG"    [2021-09-09 Thu 10:45]
-   - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:45]
-** ACTIVE [#B] Переделать инвентаризацию
-** ACTIVE [#A] Заказать канцтовары и узнать про заказ ssd
-   - State "REVIEW"     from "WAIT"       [2021-09-09 Thu 11:03]
-   - State "HOLD"       from "WAIT"       [2021-09-09 Thu 11:03]
-   - State "DONE"       from "NEXT"       [2021-09-09 Thu 10:46]
+* TODO [#A] Глобальные задачи:                                        :MAYBE:
+** TODO [#B] Трансляция 29 числа                                      :ALERT:
+** TODO [#A] Трансляция 30 числа                            :ALERT:IMPORTANT:
 * Компьютеры из 3-17
   - 1-3
   - 3-5
   - 2-11
   - 2-15 лаборантская
-* DONE Date:<2021-09-15 Wed>
-** DONE Начать инвентаризацию
 
 
-  
-   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:48]
-   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:47]
-   - State "DONE"       from "NEXT"       [2021-09-13 Mon 10:47]
-** DONE Кабинет 2-2 посмотреть компьютер
-** DONE Посмотреть переходники hdmi
-* Date:<2021-09-27 Mon>
-** DONE [#B] Планерка зум
-** DONE Почта пиздюлина
-   - State "DONE"       from "NEXT"       [2021-09-27 Mon 11:51]
-** DONE Проектор в 2-16
-** DONE Компьютер в 2-17
-** DONE Компьютер 1-7 обновить, проверить
-   Ни в коем случае не сносить систему, там установлен тир.
-** DONE Проверить бухгалтерию на наличие интернета
-   Выключить шлюз
-** TODO Повесить проектор в 3-21
-** DONE 8а второй аккаунт в зум
-   
+
+
+
+
 * Archive                                                           :ARCHIVE:
 ** Date: <2021-08-26 Thu>                                           :ARCHIVE:
    :PROPERTIES:

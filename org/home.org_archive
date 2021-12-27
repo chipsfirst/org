@@ -1,0 +1,28 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/kartashov/AppData/Roaming/.emacs.d/dev/org/home.org
+
+
+*  [#B] Счетчики :                                                    :ALERT:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:13
+  :ARCHIVE_FILE: ~/.emacs.d/dev/org/home.org
+  :ARCHIVE_CATEGORY: home
+  :END:
+** DONE Поверить счетчики
+** DONE Документы отнести в управляющую компанию EADLINE: <2021-08-18 Mon 11:00>
+
+* [#A] Сходить в кино                                                    :MY:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-12-27 Mon 17:13
+  :ARCHIVE_FILE: ~/.emacs.d/dev/org/home.org
+  :ARCHIVE_CATEGORY: home
+  :END:
+** DONE Выбрать фильм
+   DEADLINE: <2021-08-16 Mon>
+** DONE Выбрать кинотеатр
+   DEADLINE: <2021-08-16 Mon>
+** DONE Выбрать дату
+   DEADLINE: <2021-08-17 Tue>
+** DONE Купить билеты
