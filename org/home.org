@@ -2,6 +2,12 @@
 #+AUTHOR: Kartashov_VA
 #+TAGS: ALERT(a) FAMILY(f) MY(m)
 
-* Починить дверцу душ.                                      :ALERT:FAMILY:MY:
-* Пройти все окна и двери откуда дует.                      :ALERT:FAMILY:MY:
-* Составить план на выходные.                               :ALERT:FAMILY:MY:
+
+
+
+
+
+
+* DONE [#A] Починить дверцу душ.                            :ALERT:FAMILY:MY:
+* DONE Пройти все окна и двери откуда дует.                 :ALERT:FAMILY:MY:
+* DONE Составить план на выходные.                          :ALERT:FAMILY:MY:

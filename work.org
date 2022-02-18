@@ -1,20 +1,20 @@
 #+TITLE: WORK NOTE
 #+TAGS: ALERT(a) IMPORTANT(i)  MAYBE(m)
 #+DATE: <2021-08-26 Thu>
-* TODO [#A] Глобальные задачи :                                       :MAYBE:
-** DONE [#B] Трансляция 29 числа                                      :ALERT:
-** DONE [#A] Трансляция 30 числа                            :ALERT:IMPORTANT:
-** DONE [#A] Переключение интернета                               :IMPORTANT:
-** TODO [#A] Жесткий диск Надежды Николаевны
-   SCHEDULED: <2021-12-28 Tue>
+* Глобальные задачи :                                                 :MAYBE:
 ** TODO [#A] 2-9 переустановить винду
+   SCHEDULED: <2022-02-21>
 ** TODO [#A] Алтухова компьютер починить
+   SCHEDULED: <2022-02-21>
 ** TODO [#A] 1-7 поставить принтер
-** DONE [#A] 3-22 стилус
-** TODO [#A] Проверить ноуты на складе
+   SCHEDULED: <2022-02-21>
 ** TODO [#A] Педчтения 21 февраля
+   SCHEDULED: <2022-02-21>
 ** TODO [#A] Вернадский 22 февраля
-** DONE [#B] 3-26 Зум не грузится
+   SCHEDULED: <2022-02-22>
+** TODO [#B] Toshiba Маклецовой посмотреть
+   SCHEDULED: <2022-02-21>
+
 
 
 
