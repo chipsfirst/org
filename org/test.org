@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+TAGS:@IMPORTANT(i) @ALERT(a) @MAYBE(m) 
+#+Author: Kartashov_VA
+
+* TODO Задачи[1/2]:                                        :IMPORTANT:
+- [X] - hide stars
+   DEADLINE: <2021-08-16 Чт 16:00>
+- [ ] - new function
+* TODO Новые задачи [33%]:                                 :IMPORTANT:
+- [X] - task 1, new interaction
+- [ ] - task 2
+- [ ] - task 3
+*  Links                                                   :@IMPORTANT:
+** [[chipsfirst.herokuapp.com][My blog]]
+* Таблица
+|       номер | наименование       | инвентарный номер               | кабинет            |
+|-------------+--------------------+---------------------------------+--------------------|
+|           1 | Компьютер          | 221212121212121212121           | 2-12               |
+|           2 | Монитор            | 2233233222323222121212312       | 2-12               |
+|           3 | Принтер            | 12121212121                     | 2-11               |
+|           4 | Vsim               | fr32323233333332223223232223222 | dvvdvd             |
+|      cdcdcd | cdcdcdcd           | cdcdcdcdcd                      | cdcdcdcd           |
+|             |                    |                                 |                    |
+| вммвмвмвмвм | ммвмвмвмвмвмвмвмвм | вмвмвмвмввв                     | ммвмвмвмвмвмвмвмвм |
+|             |                    |                                 |                    |
+
+* Code
+#+BEGIN_SRC shell
+echo"hello"
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+fdddfdfdfdfdfdfd
+#+end_example 
+
+#+BEGIN_SRC python
+print("Hello")
+#+END_SRC
